@@ -1,4 +1,4 @@
-# PHP, Javascript and some Python
+## PHP, Javascript and some Python
 
  Working on PHP , Javascipt  and Python for a living . Wordpress , Laravel , Vue and React are the main areas i concentrate . 
  
