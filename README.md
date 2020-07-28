@@ -1,4 +1,8 @@
-### Hi there 👋
+# PHP, Javascript and some Python
+
+ Working on PHP , Javascipt  and Python for a living . Wordpress , Laravel , Vue and React are the main areas i concentrate . 
+ 
+  Trying to involve more in opensouce projects 
 
 <!--
 **anoopd/anoopd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
